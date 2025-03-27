@@ -2,7 +2,6 @@
 
 Welcome to my GitHub portfolio! This repository contains a collection of projects that highlight my skills, experience, and interests. These projects are relevant to my CV and showcase my expertise in various domains, including machine learning, deep learning, graph algorithms, and more.
 
-Projects
 
 Here are some of the key projects included in this repository:
 
