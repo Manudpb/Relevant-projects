@@ -6,12 +6,12 @@ Welcome to my GitHub portfolio! This repository contains a collection of project
 Here are some of the key projects included in this repository:
 
 1. Master's Thesis: Smarter Repository Question Answering: When to Use Retrieval, Agents, or Both
+   
 Description: Investigates how AI systems can answer questions about unfamiliar codebases, comparing semantic retrieval, autonomous coding agents, and a graph-guided coding agent on a 720-question repository QA benchmark. Evaluation uses a human-validated LLM-as-a-judge framework, measuring both answer correctness and computational cost (tokens, exploration steps, latency). Finds that for locally deployable small models, retrieval-based approaches outperform agentic exploration on both accuracy and cost, while structural graph guidance consistently improves agent performance at no additional token cost — pointing toward adaptive systems that default to lightweight retrieval and escalate to agentic reasoning only when needed.
 
 Repository: github.com/Manudpb/Thesis-final
 
-Description: 
-3. Implementing Locality-Sensitive Hashing for Finding Similar Netflix Users
+2. Implementing Locality-Sensitive Hashing for Finding Similar Netflix Users
 
 Description: This project aims to identify pairs of Netflix users with similar movie preferences based
 on their rated movies. The similarity metric used is the Jaccard similarity where ysers with a Jaccard similarity > 0.5 are considered similar. Identifying such similar user pairs is
