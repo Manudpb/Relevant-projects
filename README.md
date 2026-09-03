@@ -9,7 +9,7 @@ Here are some of the key projects included in this repository:
    
 Description: Investigates how AI systems can answer questions about unfamiliar codebases, comparing semantic retrieval, autonomous coding agents, and a graph-guided coding agent on a 720-question repository QA benchmark. Evaluation uses a human-validated LLM-as-a-judge framework, measuring both answer correctness and computational cost (tokens, exploration steps, latency). Finds that for locally deployable small models, retrieval-based approaches outperform agentic exploration on both accuracy and cost, while structural graph guidance consistently improves agent performance at no additional token cost — pointing toward adaptive systems that default to lightweight retrieval and escalate to agentic reasoning only when needed.
 
-Repository: [Master's Thesis](github.com/Manudpb/Thesis-final)
+Repository: [Master's Thesis](https://github.com/Manudpb/Thesis-final)
 
 2. CodenamesAI
 
