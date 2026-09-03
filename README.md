@@ -82,7 +82,9 @@ first-search (dfs). Lastly, we will relabel each node based on traversal
 order.
 By doing this, we aim to create a relabeling strategy that optimizes the compressibility of social network graphs using the Web-Graph framework.
 
+6. HarmoGen: A Co-Creative Evolutionary System for Interactive Melody Harmonization
 
+Description: HarmoGen is an interactive evolutionary system that harmonizes a musician's melody in collaboration with the user, rather than fully automating the process. Given a monophonic MIDI melody, the system generates candidate four-part harmonizations and iteratively refines them across generations based on the user's own ratings, using a Random Forest surrogate model to learn their subjective taste in place of a fixed fitness function. Mutation strategies shift adaptively over generations, favoring broad harmonic exploration early and conservative, incremental refinement as the user's preferences become clearer. The system was evaluated in a small-scale user study (n=11) comparing the harmonization experience across short and long melodies, assessing perceived co-creativity, sense of control, responsiveness, and satisfaction with the final result. HarmoGen is deployed as a web app where users can upload their own melody or try two preset ones, listen to and rate generated harmonizations over successive generations, and download their preferred result as a MIDI file.
 
 Contact
 
